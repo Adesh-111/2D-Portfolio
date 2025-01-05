@@ -15,5 +15,5 @@ export const dialogueData = {
     Learn more about my journey <a href="https://adesh-dev.vercel.app" target="_blank">here</a>..`,
   library: `These are my resources, a mix of inspiration, creativity, and knowledge. They keep me curious and push me to explore new horizons, even if some remain unfinished. Each one represents a step in my journey of growth and discovery.`,
   exit: `If you want to exit Adesh's portfolio, just close the tab. 
-    But I hope you’ll stay connected and follow my journey in development!`,
+    But I hope you’ll stay connected and follow <a href="https://scrollme.today/adesh" target="_blank">my journey</a> in development!`,
 };
