@@ -4,6 +4,7 @@
 Welcome to my **2D Game Portfolio**! This is a creative and interactive way to showcase my skills as a developer while combining my love for coding and gaming.  
 
 ---
+[![wakatime](https://wakatime.com/badge/user/9dec8e1b-8ebe-44ff-bac3-978088f17217/project/4446a2ae-3f92-4089-8bce-0af9cadb0c1a.svg)](https://wakatime.com/badge/user/9dec8e1b-8ebe-44ff-bac3-978088f17217/project/4446a2ae-3f92-4089-8bce-0af9cadb0c1a)
 
 ## 🚀 Live Demo  
 Check out the live version of my portfolio:  
