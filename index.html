@@ -8,10 +8,21 @@
   </head>
   <body>
     <style>
+      @font-face {
+        font-family: monogram;
+        src: url(monogram.ttf);
+      }
+
+      body{
+        font-family: monogram, monospace;
+        font-size: 2rem;
+        overflow: hidden;
+      }
+
       #app{
         width: 100%;
         height: 100%;
-        overflow: hidden;
+        position: relative;
       }
     </style>
     <div id="app">
@@ -21,7 +32,7 @@
           <div class="textbox">
             <p id="dialouge" class="ui-text"></p>
             <div class="btn-container">
-              <button id="close">Close</button>
+              <button id="close" class="ui-close">Close</button>
             </div>
           </div>
         </div>
